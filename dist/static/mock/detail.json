@@ -1,0 +1,27 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "西溪国家湿地洪园",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1904/a2/a23ae48aac0c0ab2a3.water.jpg_600x330_405288ba.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1904/a2/a23ae48aac0c0ab2a3.water.jpg_350x240_99142bd2.jpg",
+      "http://img1.qunarzz.com/sight/p0/1904/6d/6dd775aa7d985158a3.water.jpg_350x240_f70848e4.jpg",
+      "http://img1.qunarzz.com/sight/p0/1904/c0/c0188c602ec49751a3.water.jpg_350x240_4d54cb62.jpg"],
+    "categoryList":[{
+      "title":"成人票",
+      "children":[{
+        "title":"成人三馆联票",
+        "children":[{
+          "title":"成人三馆联票 - 某一连锁店销售 "
+        }]
+      },{
+        "title":"成人五馆联票"
+      }]
+    },{
+      "title":"学生票"
+    },{
+      "title":"儿童票"
+    },{
+      "title":"特惠票"
+    }]
+  }
+}
